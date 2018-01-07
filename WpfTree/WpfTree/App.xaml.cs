@@ -5,6 +5,8 @@ using System.Data;
 using System.Linq;
 using System.Threading.Tasks;
 using System.Windows;
+using System.Globalization;
+using System.Windows.Data;
 
 namespace WpfTree
 {
@@ -14,4 +16,5 @@ namespace WpfTree
     public partial class App : Application
     {
     }
+
 }
